@@ -26,7 +26,7 @@ SECRET_KEY = '6sr3plj)4w04s@8#j)m@%m^*gmryy_&f^)b%1t9uo-)3+&ph%('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["django-todo-app-katia.herokuapp.com"]
 
 
 # Application definition
